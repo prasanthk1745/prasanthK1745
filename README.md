@@ -1,5 +1,5 @@
 # HI, I'm Prasanth
-Data Analytics Enthusiast | SQL | Power BI | Excel| python
+Data Analytics Enthusiast | SQL | Power BI | Excel | python
 
 # 💫 About Me:
 👨‍💻 Aspiring Data Analyst passionate about working with data and solving business problems.<br>📊 Currently working with SQL, Power BI, Excel, and Data Analytics.<br>🛠️ Building real-world projects to strengthen my skills in data cleaning, analysis, visualization, and reporting.<br>🌱 Continuously learning and improving my data analytics skills.<br>💬 Ask me about SQL, Power BI, Excel, and Data Analysis.<br>⚡ Fun fact: I enjoy finding patterns and insights hidden in data.
