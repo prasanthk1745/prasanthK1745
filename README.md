@@ -1,4 +1,4 @@
-# HI, I'm Prasanth
+# Hi, I'm Prasanth
 Data Analytics Enthusiast | SQL | Power BI | Excel | python
 
 # 💫 About Me:
